@@ -1,4 +1,6 @@
 # web-remota-JRM
 
-# Proyecto remoto
-Estado: versión inicial
+# \# Proyecto remoto
+
+# Estado: cambio de la persona A
+
